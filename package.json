@@ -1,6 +1,6 @@
 {
     "name": "cra-template-heck",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "template.json",
     "description": "Julian Hecker's personal template for starting React projects",
     "scripts": {
