@@ -1,24 +1,24 @@
 {
-  "name": "cra-template-heck",
-  "version": "1.0.0",
-  "main": "template.json",
-  "description": "Julian Hecker's personal template for starting React projects",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/julian-hecker/cra-template-heck.git"
-  },
-  "keywords": [
-    "Julian Hecker",
-    "create-react-app",
-    "template"
-  ],
-  "author": "Julian Hecker",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/julian-hecker/cra-template-heck/issues"
-  },
-  "homepage": "https://github.com/julian-hecker/cra-template-heck#readme"
+    "name": "cra-template-heck",
+    "version": "1.0.0",
+    "main": "template.json",
+    "description": "Julian Hecker's personal template for starting React projects",
+    "scripts": {
+        "test": "npx create-react-app test --template file:."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/julian-hecker/cra-template-heck.git"
+    },
+    "keywords": [
+        "Julian Hecker",
+        "create-react-app",
+        "template"
+    ],
+    "author": "Julian Hecker",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/julian-hecker/cra-template-heck/issues"
+    },
+    "homepage": "https://github.com/julian-hecker/cra-template-heck#readme"
 }

@@ -1,10 +1,22 @@
-# cra-template-heck
-Highly opinionated Template for creating React applications
+## Heck React App
+Created with [Create React App](https://github.com/facebook/create-react-app) and the [SERN template](https://github.com/julian-hecker/cra-template-heck).
 
-## Usage
-```bash
-npx create-react-app my-app --template heck
-```
+My personal template for starting a new React project. 
+
+## Available Scripts
+
+### `npm run start`
+Runs the React development server.
+
+### `npm run build`
+Creates a production build
+
+### `npm run test`
+Runs tests (not implemented by default)
+
+### `npm run eject`
+Ejects react app (won't be able to receive CRA updates)
+
 
 ## Output
 
@@ -35,12 +47,5 @@ values
 ```
 
 
-## Create your own template
-Follow the guide at the [Create React App Documentation](https://create-react-app.dev/docs/custom-templates/) to create your own `create-react-app` template
-
-## Resources
-- https://cheesecakelabs.com/blog/efficient-way-structure-react-native-projects/
-- https://cheesecakelabs.com/blog/atomic-design-react/
-
-## To Do
-- Include support for PWA
+## Generate Favicons
+Very useful site to create the required favicons [https://favicon.io/favicon-converter/]
